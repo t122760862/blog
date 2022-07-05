@@ -6,7 +6,7 @@
 
 ## vue 深入浅出  
 
-* [vue 响应式原理]('https://github.com/t122760862/blog/issues/1')
+* [vue 响应式原理](https://github.com/t122760862/blog/issues/1)
 
 ## 开发心得  
 
